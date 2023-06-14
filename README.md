@@ -1,3 +1,3 @@
 # Project-15
 
-oporpa
+details
